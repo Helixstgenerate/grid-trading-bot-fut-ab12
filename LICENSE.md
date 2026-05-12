@@ -1,4 +1,4 @@
-# 
+# exclusive grid trading bot for futures | liquidity-provision + cross-margin is the best grid trading bot for futures, featuring liquidity-provision and cross-margin. Smart, fast,
 
 
 
